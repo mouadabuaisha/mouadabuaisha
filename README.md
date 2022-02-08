@@ -1,15 +1,15 @@
-<h3>✨ Hello There! I'm Mouad Abuaisha ✨</h3>
+<h3>✨ Hello There! I'm Mouad Abuaisha</h3>
 <p>I am a full-stack web developer currently work in 
   <a href="https://ltt.ly/"><img src="https://yt3.ggpht.com/ytc/AKedOLSsoZAnRzcZguTDfz7fx3w2d2NoVJLhDwsWu3E5yQ=s900-c-k-c0x00ffffff-no-rj" width="30px" />Libya Telecom & Technology</a> 
   as Head of software dev unit.
 </p>
 
 <h4>My Tools 📏</h4>
-- Vue + Vuex 🎨.<br/>
-- .Net Core 💻.<br/>
-- SQL Server 📚🛢.
+- Vue + Vuex<br/>
+- dotnet Core<br/>
+- SQL Serve
 
-<h4>Notable projects 🧰</h4>
+<h4>Notable projects 📊</h4>
 <ul>
   <li> HR System</li>
   <li> Health Insurance System</li>
