@@ -1,4 +1,4 @@
-<h3>Hello There! I'm Mouad Abuaisha</h3>
+<h3>✨ Hello There! I'm Mouad Abuaisha ✨</h3>
 <p>I am a full-stack web developer currently work in 
   <a href="https://ltt.ly/"><img src="https://yt3.ggpht.com/ytc/AKedOLSsoZAnRzcZguTDfz7fx3w2d2NoVJLhDwsWu3E5yQ=s900-c-k-c0x00ffffff-no-rj" width="30px" />Libya Telecom & Technology</a> 
   as Head of software dev unit.
@@ -8,7 +8,7 @@
 <br/><br/>
 <div style="display: flex">
 <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" width="253" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="253" />
 </div>
 
 <h4>Notable projects</h4>
