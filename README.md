@@ -6,9 +6,7 @@
 
 <h4>My Tools 📐📏</h4>
 <div style="dispaly: flex">
-<img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" />
-<img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" />
-<img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" />
+<img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" width="253" />
 
 </div>
 
