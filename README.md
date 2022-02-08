@@ -1,5 +1,8 @@
-<h3>Hello There! I'm <strong>Mouad Abuaisha</strong></h3>
-<p>I am a full-stack web developer currently work in <a href="https://ltt.ly/">LTT</a> as Head of software dev unit.</p>
+<h3>Hello There! I'm Mouad Abuaisha</h3>
+<p>I am a full-stack web developer currently work in 
+  <a href="https://ltt.ly/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/LTT_logo.jpg" width="30px" />LTT</a> 
+  as Head of software dev unit.
+</p>
 
 <h5>My Tools</h5>
 <ul>
