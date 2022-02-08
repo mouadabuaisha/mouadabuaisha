@@ -6,7 +6,7 @@
 
 <h4>📐 My Tools 📏</h4>
 <br/><br/>
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between">
 <img src="https://mpng.subpng.com/20180714/qtv/kisspng-vue-js-javascript-library-github-freezing-point-5b498c734bc759.6608720315315467393104.jpg" width="150" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="150" />
 <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" width="150" />
