@@ -5,9 +5,9 @@
 </p>
 
 <h4>My Tools 📏</h4>
-- Vue + Vuex 🎨
-- .Net Core 💻
-- SQL Server 📚🛢
+- Vue + Vuex 🎨.<br/>
+- .Net Core 💻.<br/>
+- SQL Server 📚🛢.
 
 <h4>Notable projects 🧰</h4>
 <ul>
