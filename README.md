@@ -5,14 +5,12 @@
 </p>
 
 <h4>📐 My Tools 📏</h4>
-<br/><br/>
-<div style="display: flex; justify-content: space-between">
-<img src="https://mpng.subpng.com/20180714/qtv/kisspng-vue-js-javascript-library-github-freezing-point-5b498c734bc759.6608720315315467393104.jpg" width="150" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="150" />
-<img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" width="150" />
-</div>
+<br/>
+- Vue + Vuex 🖼🎨
+- .Net Core 💻
+- SQL Server 📚🛢
 
-<h4>Notable projects</h4>
+<h4>🔭Notable projects 🧰</h4>
 <ul>
   <li> HR System</li>
   <li> Health Insurance System</li>
@@ -20,8 +18,8 @@
   <li><a href="https://vac.ncdc.gov.ly">Tahseen Platform</a></li>
 </ul>
 
-<h5>Contact Me</h5>
+<h5>📬Contact Me</h5>
 
-- <a href="mailto:mouad.abuaisha@gmail.com">mouad.abuaisha@gmail.com</a>
-- <a href="https://www.linkedin.com/in/mouad-abuaisha-416206168/">LinkedIn</a>
-- <a href="https://codepen.io/m-abuaisha/pen/oNvpKOE">CodePen</a>
+- <a href="mailto:mouad.abuaisha@gmail.com">📧mouad.abuaisha@gmail.com</a>
+- <a href="https://www.linkedin.com/in/mouad-abuaisha-416206168/">📮LinkedIn</a>
+- <a href="https://codepen.io/m-abuaisha/pen/oNvpKOE">✒️CodePen</a>
