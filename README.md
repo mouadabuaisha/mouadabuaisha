@@ -1,13 +1,14 @@
 <h3>✨ Hello There! I'm Mouad Abuaisha</h3>
 <p>I am a full-stack web developer currently work in 
-  <a href="https://ltt.ly/"><img src="https://yt3.ggpht.com/ytc/AKedOLSsoZAnRzcZguTDfz7fx3w2d2NoVJLhDwsWu3E5yQ=s900-c-k-c0x00ffffff-no-rj" width="30px" />Libya Telecom & Technology</a> 
-  as Head of software dev unit.
+  <a href="https://ltt.ly/">Hauk & Sassko</a> 
+  as part-time software engineer.
 </p>
 
 <h4>My Tools 📏</h4>
-- Vue + Vuex<br/>
-- dotnet Core<br/>
-- SQL Serve
+- Vue + Angular<br/>
+- dotnet Core / Springboot<br/>
+- SQL Serve / PostgreSQL
+- Message Brokers / Microservices 
 
 <h4>Notable projects 📊</h4>
 <ul>
@@ -15,6 +16,7 @@
   <li> Health Insurance System</li>
   <li> Civil Registry Authority System</li>
   <li><a href="https://vac.ncdc.gov.ly">Tahseen Platform</a></li>
+  <li> Stockyard Management System</li>
 </ul>
 
 <h5>Contact Me</h5>
