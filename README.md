@@ -1,5 +1,5 @@
 <h3>✨ Hello There! I'm Mouad Abuaisha</h3>
-<p>I am a full-stack web developer currently work in 
+<p>I am a full-stack web developer. Worked in 
   <a href="https://ltt.ly/"><img src="https://yt3.ggpht.com/ytc/AKedOLSsoZAnRzcZguTDfz7fx3w2d2NoVJLhDwsWu3E5yQ=s900-c-k-c0x00ffffff-no-rj" width="30px" />Libya Telecom & Technology</a> 
   as Head of software dev unit.
 </p>
